@@ -1,5 +1,0 @@
-emailamazon=
-emailgmail=
-passwordgmail=
-name=
-phone=
