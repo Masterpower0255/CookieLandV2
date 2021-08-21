@@ -8,10 +8,17 @@ Make sure you have downloaded python
 1. Download the files go to your command promt and type these commands:  
 `cd (yourfilepath)` press enter  
  `pip install requirements.txt` wait until it finishes  
- Close that command promt  
-  
+ Close that command promt    
+ 
+Now your gotta setup gmail    
+### Setup your gmail for this.
+1. Go to Gmail (https://mail.google.com/mail/u/#settings/fwdandpop)
+2. Allow access to IMAP, Click save.
+3. Go to https://myaccount.google.com/security
+4. Allow access to "less secure apps"
+
     
-### How to use settings.txt
+## Using settings.txt
 
 
 You'll see settings.txt  
@@ -30,9 +37,3 @@ You gotta add your information in the (email) parts without any @gmail informati
 4. Click "Save" On twilio
 5. **Now Run Main.py** And when it asks for gmail+? Put a gmail+ you haven't used, It will try to continue by adding 1 number each time it loops to that.
 
-
-# How to Setup your gmail for this usage.
-1. Go to Gmail (https://mail.google.com/mail/u/#settings/fwdandpop)
-2. Allow access to IMAP, Click save.
-3. Go to https://myaccount.google.com/security
-4. Allow access to "less secure apps"
