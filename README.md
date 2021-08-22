@@ -7,7 +7,7 @@ Make sure you have downloaded python
 
 1. Download the files go to your command promt and type these commands:  
 `cd (yourfilepath)` press enter  
- `pip install requirements.txt` wait until it finishes  
+ `pip install -r requirements.txt` wait until it finishes  
  Close that command promt    
  
 Now your gotta setup gmail    
